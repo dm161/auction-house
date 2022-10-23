@@ -1,6 +1,4 @@
-===========================================
-Programming Test - Auction House
-===========================================
+# Programming Test - Auction House
 
 Requirements:
  - Please complete the following programming exercise. Allow for about 4-6 hours.
@@ -31,7 +29,7 @@ for the same amount then the earliest bid wins the item.
 
 ===========================================
 
-** EXERCISE **
+## EXERCISE
 
 Given an input file containing instructions to both start auctions, and place bids. You must
 execute all instructions, and output for each item (upon the auction closing) the winning bid,
